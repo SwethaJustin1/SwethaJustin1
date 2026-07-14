@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Swetha 👋
 
-<!--
-**SwethaJustin1/SwethaJustin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge business needs and Automation/AI implementation — defining automation and AI agent use cases, translating requirements into solutions, guiding prompt engineering, overseeing testing and demos, and enabling development teams to deliver AI-powered applications at scale across managed services accounts.
 
-Here are some ideas to get you started:
+Outside of my day-to-day, I build small, working AI/agent projects to deepen my hands-on understanding of the systems I design and scale. I also write on AIOps and Autonomous IT Operations on Medium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Repo | What it does |
+|---|---|
+| [prompt-engineering-patterns](https://github.com/SwethaJustin1/prompt-engineering-patterns) | Structured collection of prompt templates for business use cases |
+| [responsible-ai-governance-framework](https://github.com/SwethaJustin1/responsible-ai-governance-framework) | Framework for governing AI systems responsibly in enterprise settings |
+| [ImageClassifierCatsvsDog](https://github.com/SwethaJustin1/ImageClassifierCatsvsDog) | Image classifier project — early hands-on ML fundamentals |
