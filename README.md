@@ -15,4 +15,4 @@ Outside of my day-to-day, I build small, working AI/agent projects to deepen my 
 | [notebooklm-knowledge-assistant-eval](https://github.com/SwethaJustin1/notebooklm-knowledge-assistant-eval) | Documentation-driven case study evaluating NotebookLM as an AIOps knowledge assistant |
 | [prompt-engineering-patterns](https://github.com/SwethaJustin1/prompt-engineering-patterns) | Structured collection of prompt templates for business use cases |
 | [responsible-ai-governance-framework](https://github.com/SwethaJustin1/responsible-ai-governance-framework) | Framework for governing AI systems responsibly in enterprise settings |
-| [ImageClassifierCatsvsDog](https://github.com/SwethaJustin1/ImageClassifierCatsvsDog) | Image classifier project — early hands-on ML fundamentals |
+
